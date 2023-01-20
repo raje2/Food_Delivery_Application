@@ -9,11 +9,11 @@ An Individual FoodSite Management Project Where Users can Order Food Items and A
 
 <h2 align="left"><i>Tech Stack</i></h2>
 <div align="left">
-<p>Java</p>
-<p>Spring Boot</p>
-<p>Hibernet</p>
-<p>Thyemeleaf</p>
-<p>H2database</p>
+<h3>Java</h3>
+<h3>Spring Boot</h3>
+<h3>Hibernet</h3>
+<h3>Thyemeleaf</h3>
+<h3>H2database</h3>
 </div>
 
 <h2>My Rule</h2>

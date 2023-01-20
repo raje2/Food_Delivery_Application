@@ -4,7 +4,7 @@
 <h1 align="center"><a href="https://heroic-cucurucho-c5bc21.netlify.app" target="_blank"> Food Delivery Application</a></h1>
 
 <p>
-An Individual FoodSite Management Project Where Users can Order Food Items and Admin can Add Food Items to this website.
+An Individual FoodSite Management Project Where Users can Order Food Items and Admin can Add Food Items to this website.This website is work like Zomato, Swiggy like Food Delivery Application.
 </p>
 
 <h2 align="left"><i>Tech Stack</i></h2>
